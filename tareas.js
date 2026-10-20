@@ -10,3 +10,8 @@ console.log("Agregar Tarea 3");
 
 //Logs generados para herramientas DEBUG
 console.log("Registrar Cambios en Logs.txt");
+
+//Añadir la opcion de registrar el tiempo usado para subirse a Github
+console.log("Generar txt de tiempo empleado - Grupo 1");
+console.log("Generar txt de tiempo empleado - Grupo 2");
+console.log("Generar txt de tiempo empleado - Grupo 3");
